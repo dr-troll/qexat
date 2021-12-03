@@ -1,5 +1,3 @@
-### Qexat
-
 ## About me
 
 Hi, I am Qexat 👋  
