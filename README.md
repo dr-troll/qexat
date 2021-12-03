@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**qexat/qexat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+Hi, I am Qexat 👋.  
+I am a French developer, music producer and designer. I go by `she/they` pronouns.  
+You can find my website here: [qexat.com](https://qexat.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Link tree:
+
+- [Website](https://qexat.com) (under construction)
+- [Soundcloud](https://soundcloud.com/qexat)
+- ![Discord icon](https://qexat.com/src/local/git-discord.png) [Discord](https://discord.qexat.com/)
+
+## Languages:
+
+- French 🇫🇷 (native)  
+- English 🇬🇧 (correct, school level : B2)  
+- Spanish 🇪🇸 (notions, school level : A1)  
+
+## Development languages:
+
+| **Language**	| **Version(s)** | **Skills**	| **Started in** | **Learned** 										 |
+|---------------|----------------|--------------|----------------|---------------------------------------------------|
+| Python		| 3.6+			 | ⭐⭐⭐⭐		| 2018			 | Started at secondary school, continued by myself  |
+| HTML/CSS 		| 5/3			 | ⭐⭐⭐⭐ 	| 2013			 | By my father, continued myself					 |
+| JavaScript 	| 8+ 			 | ⭐⭐⭐		 | 2015 		  | By myself, to improve HTML/CSS			 		  |
+| Bash 			| 5+			 | ⭐⭐⭐ 		 | 2019			  | By myself, as I am on Ubuntu/Linux		 		  |
+| *SQLite\**	| *3*			 | ⭐⭐		  |	*2020*			| *At secondary school*					  		   |
+| C				| 17+			 | ⭐		   | 2021			| By self, will continue at college		   			|
+| *Java\**		| *8+*			 | ⭐			| *2021*		| *By myself*										|
+
+(*) : stopped learning or practicing these languages
