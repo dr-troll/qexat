@@ -1,24 +1,23 @@
-### Hi there 👋
+### Qexat
 
-## About me:
+## About me
 
-Hi, I am Qexat 👋.  
+Hi, I am Qexat 👋  
 I am a French developer, music producer and designer. I go by `she/they` pronouns.  
-You can find my website here: [qexat.com](https://qexat.com).
 
-## Link tree:
+## Link tree
 
 - [Website](https://qexat.com) (under construction)
-- [Soundcloud](https://soundcloud.com/qexat)
-- ![Discord icon](https://qexat.com/src/local/git-discord.png) [Discord](https://discord.qexat.com/)
+- [SoundCloud](https://soundcloud.com/qexat)
+- [Discord](https://discord.qexat.com/)
 
-## Languages:
+## Languages
 
 - French 🇫🇷 (native)  
 - English 🇬🇧 (correct, school level : B2)  
 - Spanish 🇪🇸 (notions, school level : A1)  
 
-## Development languages:
+## Development languages
 
 | **Language**	| **Version(s)** | **Skills**	| **Started in** | **Learned** 										 |
 |---------------|----------------|--------------|----------------|---------------------------------------------------|
