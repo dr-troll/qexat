@@ -22,6 +22,7 @@ I am a French developer, music producer and designer. I go by `she/they` pronoun
 | Python | 3.6+ | ⭐⭐⭐⭐ | 2018 | Started at secondary school, continued by myself |
 | HTML/CSS | 5/3 | ⭐⭐⭐⭐ | 2013 | By my father, continued myself |
 | JavaScript | 8+ | ⭐⭐⭐ | 2015 | By myself, to improve HTML/CSS |
+| TypeScript | 3.4+ | ⭐⭐⭐ | 2021 | By myself, while contributing to the development of a Discord bot |
 | Bash | 5+ | ⭐⭐⭐ | 2019 | By myself, as I am on Ubuntu/Linux |
 | *SQLite\** | *3* | ⭐⭐ | *2020* | *At secondary school* |
 | C | 17+ | ⭐ | 2021 | By myself, will continue at college |
