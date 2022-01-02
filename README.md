@@ -17,7 +17,7 @@ I am a French developer, music producer and designer. I go by `she/they` pronoun
 
 [18]: # (## Development languages)
 
-[20]: # (| **Language** | **Version\(s\)** | **Skills** | **Started in** | **Learned** |)
+[20]: # (| **Language** | **Version** | **Skills** | **Started in** | **Learned** |)
 [21]: # (|--------------|----------------|------------|----------------|-------------|)
 [22]: # (| Python | 3.6+ | ⭐⭐⭐⭐ | 2018 | Started at secondary school, continued by myself |)
 [23]: # (| HTML/CSS | 5/3 | ⭐⭐⭐⭐ | 2013 | By my father, continued myself |)
