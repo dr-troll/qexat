@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I am Qexat 👋  
+Hi, I am Clarisse 👋  
 I am a French developer, music producer and designer. I go by `she/her`.  
 
 ## Link tree
