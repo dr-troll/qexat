@@ -1,7 +1,7 @@
 ## About me
 
 Hi, I am Clarisse 👋  
-I am a French developer, music producer and designer. I go by `they/she`.  
+I am a French developer, music producer and designer. I go by `he/him`.  
 
 ## Link tree
 
